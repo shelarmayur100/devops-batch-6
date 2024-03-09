@@ -9,3 +9,5 @@ git restore
 git status
 
 git log
+
+git config --global user.name ""
